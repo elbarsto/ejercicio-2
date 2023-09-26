@@ -1,0 +1,10 @@
+/* styles.css */
+.icon-hearth::before{
+font-family: "FontAwesome";
+margin-right: 10px;
+content: "f004";
+font-weight: 700;
+
+ }
+
+
